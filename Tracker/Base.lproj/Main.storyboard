@@ -54,6 +54,7 @@
                     <connections>
                         <outlet property="activityIndicator" destination="D07-vT-pLJ" id="DFp-H5-4iA"/>
                         <outlet property="mapView" destination="R5T-n7-hVv" id="HLj-mD-XnL"/>
+                        <outlet property="startStopButton" destination="yyV-cf-HHX" id="4en-ck-8Jf"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
